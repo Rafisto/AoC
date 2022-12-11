@@ -5,6 +5,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# sessionID and vscode
+programs/data/session.id
+.vscode/
+
 # C extensions
 *.so
 
